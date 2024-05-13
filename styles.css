@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin:auto
+}
+h1{
+    color: blue;
+}
+
+.head2{
+    color: green;
+}
+
+
+#head2{
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+.table-container{
+    margin: 10 auto;
+    width: 50%;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+th, td{
+    border: 2px solid black;
+    padding: 12px;
+    text-align: center;
+}
+
+th{
+    background-color: greenyellow;
+}
